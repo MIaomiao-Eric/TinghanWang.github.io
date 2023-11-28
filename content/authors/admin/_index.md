@@ -7,7 +7,7 @@ first_name: Tinghan
 last_name: Wang
 
 # Status emoji
-status: Exploring Cybersecurity
+status: Exploring_Cybersecurity
   icon: 🌐
 
 # Is this the primary user of the site?
