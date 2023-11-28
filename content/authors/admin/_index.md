@@ -105,5 +105,5 @@ social:
 highlight_name: true
 ---
 
-Tinghan Wang is a cybersecurity researcher and blockchain enthusiast at the University of Queensland. She is passionate about enhancing digital security and data integrity, particularly in the aviation sector, through innovative blockchain solutions. As president of the UQ Blockchain Club, she is actively involved in educating and engaging students in this emerging technology.
+Tinghan Wang is a cybersecurity researcher and blockchain enthusiast at the University of Queensland. He is passionate about enhancing digital security and data integrity, particularly in the aviation sector, through innovative blockchain solutions. As president of the UQ Blockchain Club, she is actively involved in educating and engaging students in this emerging technology.
 {style="text-align: justify;"}
